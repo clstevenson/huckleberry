@@ -10,3 +10,36 @@ body {
 }
 
 /* Add styles here! */
+
+header {
+  margin: 20px 100px;
+}
+
+.intro-chunk {
+  width: 400px;
+}
+
+.intro-chunk strong {
+  color: green;
+}
+
+main {
+  background-color: gray;
+  margin: 5px;
+  padding: 20px 100px;
+  border-top: solid 5px lightgray;
+}
+
+.card {
+  background-color: white;
+  padding: 5px;
+  border-bottom: solid 5px lightgray;
+}
+
+.indented-heading {
+  background-color: yellow;
+  width: fit-content;
+  margin-left: -8px;
+  padding: 10px;
+  border-bottom: solid 5px lightgray;
+}
